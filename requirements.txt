@@ -1,0 +1,2 @@
+lambda-dev-server==0.0.8
+python-metadata-parser==0.1.3
